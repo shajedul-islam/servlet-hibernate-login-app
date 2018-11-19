@@ -26,6 +26,8 @@
     <input type="password" name="password" required="required"> <br> <br>
     <input type="submit" value="Login">
    </form>
+
+   <a href="register">Register</a>
  </h1>
  </div>
 </body>
